@@ -1,11 +1,13 @@
 # Inflammatory Speech Flagger
 
 Capstone project — AI-14, AI & Machine Learning NextGen Cohort (Grazac Technologies Limited)
+
 Submitted by: Omosomi Ann Hassan
 
-🚀 **Live demo:** https://your-app-name.streamlit.app
-🎥 **Demo video:** https://your-video-link
+- 🚀 **Live demo:**https://inflammatory-speech-flagger.streamlit.app/
+- 🎥 **Demo video:** https://your-video-link
 
+---
 
 ## Problem
 Platforms need to flag hate/inflammatory posts in local Nigerian context. This project trains a classifier that takes a social media post as input and returns a flag (inflammatory / not) plus a human-readable reason.

@@ -100,8 +100,7 @@ with st.sidebar:
         "**Model:** TF-IDF + Logistic Regression\n\n"
         "**Trained on:** AfriHate (Nigerian Pidgin, Hausa, Igbo, Yorùbá)"
     )
-    st.markdown("---")
-    st.markdown("[📓 Notebook & repo](#) · [🎥 Demo video](#)")
+
 
 if model is None:
     st.warning(
