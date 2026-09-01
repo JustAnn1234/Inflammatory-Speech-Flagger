@@ -4,7 +4,7 @@ Capstone project — AI-14, AI & Machine Learning NextGen Cohort (Grazac Technol
 
 Submitted by: Omosomi Ann Hassan
 
-- 🚀 **Live demo:**https://inflammatory-speech-flagger.streamlit.app/
+- 🚀 **Live demo:** https://inflammatory-speech-flagger.streamlit.app/
 - 🎥 **Demo video:** https://youtu.be/8I9dtQH0g6U?si=nZFLRx86mbs9UmH1
 
 ---
